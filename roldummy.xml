@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<role>
+<access>
+<id>Uno</id>
+<type>adgroup</type>
+<name>Dummie role</name>
+<group>sp_role_loquesea</group>
+<needsmodel>no</needsmodel>
+</access>
+<access>
+<id>Dos</id>
+<type>email</type>
+<name>Access to something</name>
+<needsmodel>yes</needsmodel>
+<modelID>samdummy</modelID>
+</access>
+</role>
